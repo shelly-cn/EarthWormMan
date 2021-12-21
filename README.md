@@ -1,3 +1,3 @@
 # EarthWormMan
 
-c2命令控制工具
+C2 command control tool based on golang!
